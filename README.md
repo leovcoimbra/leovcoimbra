@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 💻 Desenvolvedor Web Front-End com foco em criar experiências envolventes.<br>📚 Estudando HTML, CSS, JavaScript e Sass para melhorar minhas habilidades.<br>🎨 Apaixonado por Design Responsivo e Interfaces Intuitivas.<br>🛠️ Experiência com CSS3 (Flexbox, Grid) e pré-processadores como Sass.<br>🚀 Explorando a criação de Componentes Reutilizáveis com JavaScript.<br>🔄 Sempre em busca de novas ferramentas e frameworks para melhorar a produtividade.<br>🌱 Atualmente aprendendo mais sobre JavaScript Assíncrono e APIs REST.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardovcoimbra) 
 
 # 💻 Tech Stack:
