@@ -1,16 +1,20 @@
-<h1 align="center">Vamos criar?</h1>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<h3 align="center">👩‍💻  Sobre mim</h3>
+<img align="right" height="280" src="https://i.gifer.com/QowP.gif"  />
 
 ###
 
-<p align="center">💻 Desenvolvedor Web Front-End com foco em criar experiências envolventes.<br>📚 Estudando HTML, CSS, JavaScript e Sass para melhorar minhas habilidades.<br>🎨 Apaixonado por Design Responsivo e Interfaces Intuitivas.<br>🛠️ Experiência com CSS3 (Flexbox, Grid) e pré-processadores como Sass.<br>🚀 Explorando a criação de Componentes Reutilizáveis com JavaScript.<br>🔄 Sempre em busca de novas ferramentas e frameworks para melhorar a produtividade.<br>🌱 Atualmente aprendendo mais sobre JavaScript Assíncrono e APIs REST.</p>
+<h4 align="center">"Design não é apenas o que parece e o que se sente. Design é como funciona." <br>— Steve Jobs</h4>
 
 ###
 
-<div align="center">
+<p align="right">• Dev Web Front-End: User Experience<br><br>• HTML, JavaScript, Sass e CSS3 (Flexbox, Grid)<br><br>• Busco me desenvolver como programador<br><br>•  JavaScript Assíncrono e APIs REST</p>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/leonardovcoimbra/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -21,7 +25,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">Linguagens</h3>
 
 ###
 
@@ -41,6 +45,14 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">Estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leovcoimbra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=Contribui%C3%A7%C3%B5es" height="155" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leovcoimbra&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="103" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leovcoimbra&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Gr%C3%A1fico%20-%20Leonardo%20Coimbra" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
