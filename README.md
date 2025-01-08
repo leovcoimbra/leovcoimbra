@@ -1,4 +1,5 @@
-<h2 align="center">Sobre mim</h2>
+<body background-color: "black">
+  <h2 align="center">Sobre mim</h2>
 
 ###
 
@@ -56,3 +57,4 @@
 </div>
 
 ###
+</body>
