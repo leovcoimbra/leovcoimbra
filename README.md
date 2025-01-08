@@ -10,11 +10,11 @@
 
 ###
 
-<p align="right">• Dev Web Front-End: User Experience<br><br>• HTML, JavaScript, Sass e CSS3 (Flexbox, Grid)<br><br>• Busco me desenvolver como programador<br><br>•  JavaScript Assíncrono e APIs REST</p>
+<p align="center">• Dev Web Front-End: User Experience<br><br>• HTML, JavaScript, Sass e CSS3 (Flexbox, Grid)<br><br>• Busco me desenvolver como programador<br><br>•  JavaScript Assíncrono e APIs REST</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/leonardovcoimbra/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
