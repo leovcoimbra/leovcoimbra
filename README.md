@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.gifer.com/QowP.gif"  />
+<img align="right" height="220" src="https://i.gifer.com/QowP.gif"  />
 
 ###
 
