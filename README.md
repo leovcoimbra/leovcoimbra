@@ -1,4 +1,4 @@
-<h2 align="center">Desenvolvedor Front-end</h2>
+<h2 align="center"> Analista de Growth</h2>
 
 ###
 
